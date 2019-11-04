@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="G:\Eclipse\Workspace\UserManagement"/>
 		<item value="C:\Users\vignesh.palani\Documents\rsaencryption-master.zip"/>
 		<item value="F:\Samples\Wickets\myproject"/>
 	</list>
