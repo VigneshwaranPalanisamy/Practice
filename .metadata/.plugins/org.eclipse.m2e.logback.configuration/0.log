@@ -4803,3 +4803,68 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact dom4j:dom4j:j
 2019-11-04 14:21:36,965 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\rsaencryption-master.zip_expanded\rsaencryption-master\src\main\resources
 2019-11-04 14:21:36,966 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-11-04 14:21:36,967 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\rsaencryption-master.zip_expanded\rsaencryption-master\src\test\resources
+2019-11-04 14:47:48,179 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:47:48,190 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:47:48,192 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:47:48,193 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:12,244 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-04 14:50:18,153 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FirstWicketProject:FirstWicketProject:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\FirstWicketProject\pom.xml.
+2019-11-04 14:50:19,984 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FirstWicketProject:FirstWicketProject:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\FirstWicketProject\pom.xml.
+2019-11-04 14:50:19,991 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: files:filefinder:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\filefinder\pom.xml.
+2019-11-04 14:50:20,009 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:20,013 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-codegen:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:20,015 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-meta:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:21,884 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:21,885 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\FirstWicketProject\src\main\resources
+2019-11-04 14:50:21,888 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:21,889 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\FirstWicketProject\src\test\resources
+2019-11-04 14:50:22,782 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FirstWicketProject:FirstWicketProject:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\FirstWicketProject\pom.xml.
+2019-11-04 14:50:22,931 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: files:filefinder:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\filefinder\pom.xml.
+2019-11-04 14:50:22,933 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:22,935 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-codegen:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:22,938 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-meta:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:22,977 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.hibernate.tutorials:hibernate-tutorial:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\hibernate-tutorial\pom.xml.
+2019-11-04 14:50:23,621 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:myproject:1.0-SNAPSHOT @ F:\Samples\Wickets\myproject\pom.xml.
+2019-11-04 14:50:23,639 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: files:filefinder:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\filefinder\pom.xml.
+2019-11-04 14:50:23,641 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:23,694 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-codegen:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:23,696 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-meta:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:24,112 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:24,117 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-04 14:50:24,129 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:24,130 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\filefinder\src\test\resources
+2019-11-04 14:50:24,401 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:myproject:1.0-SNAPSHOT @ F:\Samples\Wickets\myproject\pom.xml.
+2019-11-04 14:50:25,428 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 14:50:25,428 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:25,430 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-04 14:50:25,440 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 14:50:25,441 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-04 14:50:25,442 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:26,192 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FirstWicketProject:FirstWicketProject:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\FirstWicketProject\pom.xml.
+2019-11-04 14:50:26,261 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: files:filefinder:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\filefinder\pom.xml.
+2019-11-04 14:50:26,264 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:26,266 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-codegen:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:26,269 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-meta:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:26,304 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.hibernate.tutorials:hibernate-tutorial:0.0.1-SNAPSHOT @ G:\Eclipse\Workspace\hibernate-tutorial\pom.xml.
+2019-11-04 14:50:26,588 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:myproject:1.0-SNAPSHOT @ F:\Samples\Wickets\myproject\pom.xml.
+2019-11-04 14:50:28,624 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:28,625 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\FirstWicketProject\src\main\resources
+2019-11-04 14:50:28,626 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:28,627 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\FirstWicketProject\src\test\resources
+2019-11-04 14:50:28,642 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:28,668 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-codegen:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:28,670 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jooq.pro:jooq-meta:jar:3.10.0 is missing, no dependency information available
+2019-11-04 14:50:28,679 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:28,681 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:28,681 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:28,682 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\Eclipse\Workspace\filefinder\src\test\resources
+2019-11-04 14:50:28,754 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:28,755 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-11-04 14:50:28,760 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-04 14:50:28,761 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:29,018 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 14:50:29,018 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:29,018 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:29,019 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-04 14:50:29,019 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-04 14:50:29,019 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
