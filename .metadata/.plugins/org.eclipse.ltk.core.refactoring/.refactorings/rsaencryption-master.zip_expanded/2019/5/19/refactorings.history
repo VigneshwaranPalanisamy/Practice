@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;rsa_test_demo.jks&apos; to &apos;resource&apos;&#x0D;&#x0A;- Original project: &apos;rsaencryption-master.zip_expanded&apos;&#x0D;&#x0A;- Destination element: &apos;resource&apos;&#x0D;&#x0A;- Original element: &apos;rsa_test_demo.jks&apos;" description="Copy file" element1="rsaencryption-master/RSA/rsa_test_demo.jks" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1557290467513" target="/secure_data/resource" units="0" version="1.0"/>
+</session>

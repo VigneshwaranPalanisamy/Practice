@@ -1,0 +1,5 @@
+127.0.0.1 - - [07/Sep/2018:12:51:04 +0530] "GET / HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [07/Sep/2018:12:51:04 +0530] "GET /RestServiceHelloWorld/ HTTP/1.1" 404 1098
+0:0:0:0:0:0:0:1 - - [07/Sep/2018:12:51:52 +0530] "GET /RestServiceHelloWorld/rest/UserService/users HTTP/1.1" 200 144
+0:0:0:0:0:0:0:1 - - [07/Sep/2018:12:52:41 +0530] "GET /RestServiceHelloWorld/rest/UserService/users HTTP/1.1" 200 144
+0:0:0:0:0:0:0:1 - - [07/Sep/2018:13:09:09 +0530] "GET /RestServiceHelloWorld/rest/UserService/users HTTP/1.1" 200 144

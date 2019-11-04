@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="306" key="org.eclipse.jdt.internal.debug.ui.actions.PopupInspectAction$2DIALOG_HEIGHT"/>
+	<item value="72" key="org.eclipse.jdt.internal.debug.ui.actions.PopupDisplayAction$DisplayPopupDIALOG_HEIGHT"/>
+	<item value="706" key="org.eclipse.jdt.internal.debug.ui.actions.PopupInspectAction$2DIALOG_WIDTH"/>
+	<item value="1366" key="org.eclipse.jdt.internal.debug.ui.actions.PopupDisplayAction$DisplayPopupDIALOG_WIDTH"/>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATION_PROPERTIES_DIALOG_SECTION">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="DIALOG_HEIGHT"/>
+	</section>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATIONS_DIALOG_SECTION">
+		<item value="632" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value=", org.eclipse.jst.server.tomcat.core.launchConfigurationType, org.eclipse.jdt.launching.localJavaApplication, org.eclipse.jdt.junit.launchconfig, org.eclipse.pde.ui.JunitLaunchConfig, org.eclipse.jdt.launching.remoteJavaApplication, " key="org.eclipse.debug.ui.EXPANDED_NODES"/>
+		<item value="688" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2"/>
+		<item value="780" key="DIALOG_HEIGHT"/>
+		<item value="311" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_1"/>
+	</section>
+	<section name="org.eclipse.debug.ui.SINGLE_LAUNCH_CONFIGURATION_DIALOG_SECTION">
+		<item value="800" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="640" key="DIALOG_HEIGHT"/>
+	</section>
+</section>

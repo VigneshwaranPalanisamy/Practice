@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;db.properties&apos; to &apos;DBConnectionTest/src/main&apos;&#x0D;&#x0A;- Original project: &apos;DBConnectionTest&apos;&#x0D;&#x0A;- Destination element: &apos;DBConnectionTest/src/main&apos;&#x0D;&#x0A;- Original element: &apos;db.properties&apos;" description="Copy file" destination="/src&lt;main" element1="src/resources/db.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1570539064757" units="0" version="1.0"/>
+</session>

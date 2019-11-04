@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;UCPublisher.java&apos; to &apos;webservice/src/conversion.service.ca.javajeff.uc&apos;&#x0D;&#x0A;- Original project: &apos;webservice&apos;&#x0D;&#x0A;- Destination element: &apos;webservice/src/conversion.service.ca.javajeff.uc&apos;&#x0D;&#x0A;- Original element: &apos;UCPublisher.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;conversion.service.ca.javajeff.uc" element1="/src&lt;{UCPublisher.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1532615654076" units="1" version="1.0"/>
+</session>

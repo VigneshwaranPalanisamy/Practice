@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;NOCXMLParser/src/main.com.aspire.nocparser&apos;" deleteContents="false" description="Delete resource &apos;NOCXMLParser/src/main.com.aspire.nocparser&apos;" element1="/NOCXMLParser/src/main.com.aspire.nocparser" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1545117589422"/>
+</session>

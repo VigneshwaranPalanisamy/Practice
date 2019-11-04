@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration xmlns="http://www.jooq.org/xsd/jooq-codegen-3.11.0.xsd">
+  <!-- Configure the database connection here -->
+  <jdbc>
+    <driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+		<url>jdbc:sqlserver://localhost\\Test:1433;DatabaseName=Test</url>
+		<user>vignesh.palani</user>
+		<password>vicky@123$</password>
+    
+    <!-- You can also pass user/password and other JDBC properties in the optional properties tag: -->
+    <!-- <properties>
+      <property><key>user</key><value>[db-user]</value></property>
+      <property><key>password</key><value>[db-password]</value></property>
+    </properties> -->
+  </jdbc>
+
+  <generator>
+    <database>
+      <!-- The database dialect from jooq-meta. Available dialects are
+           named org.util.[database].[database]Database. -->
+            
+          
+      <name>org.jooq.util.sqlserver.SQLServerDatabase</name>
+
+      <!-- All elements that are generated from your schema (A Java regular expression.
+           Use the pipe to separate several expressions) Watch out for
+           case-sensitivity. Depending on your database, this might be
+           important!
+           
+           You can create case-insensitive regular expressions using this syntax: (?i:expr)
+           
+           Whitespace is ignored and comments are possible.
+           -->
+      <includes>.*</includes>
+
+      <!-- All elements that are excluded from your schema (A Java regular expression.
+           Use the pipe to separate several expressions). Excludes match before
+           includes, i.e. excludes have a higher priority -->
+      <excludes>
+           <!-- UNUSED_TABLE                # This table (unqualified name) should not be generated
+         | PREFIX_.*                   # Objects with a given prefix should not be generated
+         | SECRET_SCHEMA\.SECRET_TABLE # This table (qualified name) should not be generated
+         | SECRET_ROUTINE              # This routine (unqualified name) ... -->
+      </excludes>
+
+      <!-- The schema that is used locally as a source for meta information.
+           This could be your development schema or the production schema, etc
+           This cannot be combined with the schemata element.
+
+           If left empty, jOOQ will generate all available schemata. See the
+           manual's next section to learn how to generate several schemata -->
+      <!-- <inputSchema>[dbo/vignesh.palani/vignesh.palani]</inputSchema> -->
+      <schemata>
+  <schema>dbo</schema>
+</schemata>
+      <!-- <inputSchema>vicky</inputSchema> -->
+    </database>
+
+    <generate>
+      
+    </generate>
+
+    <target>
+      <!-- The destination package of your generated classes (within the
+           destination directory)
+           jOOQ may append the schema name to this package if generating multiple schemas,
+           e.g. org.jooq.your.packagename.schema1
+                org.jooq.your.packagename.schema2 -->
+      <!-- The destination directory of your generated classes -->
+      <directory>src\\main\\java</directory>
+      <package>jooqFiles</package>
+    </target>
+  </generator>
+</configuration>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/webservice/src/conversion/service/ca/javajeff/uc/UCPublisher.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="conversion.service.ca.javajeff.uc.UCPublisher"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="webservice"/>
+</launchConfiguration>

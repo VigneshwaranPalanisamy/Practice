@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Core.reNameFiles()&apos; to &apos;applyChanges&apos;&#x0D;&#x0A;- Original project: &apos;FileNameChange&apos;&#x0D;&#x0A;- Original element: &apos;Core.reNameFiles()&apos;&#x0D;&#x0A;- Renamed element: &apos;Core.applyChanges()&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;reNameFiles&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/main&lt;{Core.java[Core~reNameFiles" name="applyChanges" references="true" stamp="1549862413802" version="1.0"/>
+</session>

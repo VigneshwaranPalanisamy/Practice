@@ -1,0 +1,5 @@
+#Thu Feb 21 18:47:06 IST 2019
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=https\://demo.docusign.net/signing/startinsession.aspx?t\=3717e4b7-e86f-43f4-9487-43059079e93f

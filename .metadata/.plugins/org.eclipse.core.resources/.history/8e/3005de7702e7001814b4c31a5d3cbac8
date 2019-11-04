@@ -1,0 +1,48 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.hibernate.tutorials</groupId>
+  <artifactId>hibernate-tutorial</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>First Hibernate Tutorial</name>
+
+	<build>
+		<!-- we dont want the version to be part of the generated war file name -->
+		<finalName>${project.artifactId}</finalName>
+	</build>
+	
+	<dependencies>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>LATEST</version>
+        </dependency>
+
+        <!-- Because this is a web app, we also have a dependency on the servlet api. -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>LATEST</version>
+        </dependency>
+
+        <!-- Hibernate uses slf4j for logging, for our purposes here use the simple backend -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>LATEST</version>
+        </dependency>
+
+        <!-- Hibernate gives you a choice of bytecode providers between cglib and javassist -->
+        <dependency>
+            <groupId>javassist</groupId>
+            <artifactId>javassist</artifactId>
+            <version>LATEST</version>
+        </dependency>
+    </dependencies>
+    <!-- https://mvnrepository.com/artifact/org.hsqldb/hsqldb -->
+	<dependency>
+    	<groupId>org.hsqldb</groupId>
+    	<artifactId>hsqldb</artifactId>
+    	<version>2.4.0</version>
+    	<scope>test</scope>
+	</dependency>
+</project>

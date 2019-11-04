@@ -1,0 +1,20 @@
+breadcrumb.org.eclipse.jst.j2ee.J2EEPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.logging.Handler"><rhs name\="java.util.logging.ConsoleHandler"/></lhs><lhs name\="java.nio.file.CopyOption"><rhs name\="java.nio.file.StandardCopyOption"/></lhs><lhs name\="Entity.Users"><rhs name\="Entity.Users"/></lhs><lhs name\="com.docusign.esign.model.FirstName"><rhs name\="com.docusign.esign.model.FirstName"/></lhs><lhs name\="org.apache.wicket.util.io.IClusterable"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="org.apache.wicket.IConverterLocator"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="org.apache.wicket.request.component.IRequestableComponent"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="org.apache.wicket.markup.html.IHeaderContributor"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="org.apache.wicket.util.IHierarchical"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="org.apache.wicket.event.IEventSink"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="org.apache.wicket.event.IEventSource"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="org.apache.wicket.Component"><rhs name\="org.apache.wicket.markup.html.basic.Label"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="com.docusign.esign.model.CustomFields"><rhs name\="com.docusign.esign.model.CustomFields"/></lhs><lhs name\="com.docusign.esign.model.TextCustomField"><rhs name\="com.docusign.esign.model.TextCustomField"/></lhs><lhs name\="java.io.OutputStream"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.Flushable"><rhs name\="java.io.FileOutputStream"/></lhs><lhs name\="java.io.FileOutputStream"><rhs name\="java.io.FileOutputStream"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=13
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.overrideannotation=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jdt.ui.wizards.srcBinFoldersInNewProjects=false
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
